@@ -2,7 +2,7 @@
 /* Start About Page style */
 body {
 margin: 0;
-/* background-image: url(../images/stripes-light.png); */
+
 }
 
 header {
@@ -11,12 +11,10 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 background: #ffffff;
 }
 
+
 #top {
     width: 960px;
     margin: 0 auto;
-    
-    
-
 }
 
 .aboutme {
@@ -44,12 +42,13 @@ margin: 0 0 0 30px;
 }
 
 article {
-    /* background: honeydew; */
     clear: both;
     border-top: solid 2px;
     border-color: #cccccc;
     background-image: url(../images/stripes-light.png);
     background-repeat: repeat;
+    padding-bottom: 100%;
+    
 
 }
 
@@ -68,6 +67,7 @@ article {
     border-color: #dddddd;
     margin: 0 50px 50px 50px;
 }
+
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #4aaaa5;
@@ -89,9 +89,6 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 color: #777777;
 }
 
-.push {
-    height: 50px;
-}
 
 footer {
    position: fixed;
@@ -99,7 +96,7 @@ footer {
    bottom: 0;
    width: 100%;
    background-color: #666666;
-   border-top: solid 10px;
+   border-top: solid 8px;
    border-color: #4aaaa5;
    color: #ffffff;
    text-align: center;
