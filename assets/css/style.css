@@ -100,10 +100,9 @@ footer {
     float: left;
 }
 
-img {
+.imgpic {
     width: 200px;
     margin: 0 50px;
-    
 }
 
 .main-text {
@@ -168,3 +167,16 @@ form {
 
 
 /*--------------------"Portfolio" Style---*/
+
+.port-banner {
+    background-color: #4aaaa5;
+    color: #cccccc;
+    width: 100px;
+    height: 20px;
+    line-height: 20px;
+}
+
+.port-1 {
+    margin: 50px;
+    width: 50px;  
+}
