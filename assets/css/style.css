@@ -43,7 +43,15 @@ font-size: 18px;
 }
 
 a {
-    list-style-type: none;
+    text-decoration: none;
+}
+
+a:link {
+    color: #777777;
+}
+
+a:hover {
+    color: #4aaaa5;
 }
 
 /*--------------------End Header Style---*/
@@ -54,7 +62,7 @@ article {
     clear: both;
     border-top: solid 2px;
     border-color: #cccccc;
-    background-image: url(../images/stripes-light.png);
+    background-image: url(../images/light-grey-terrazzo.png);
     background-repeat: repeat;
     min-height: 85vh;
 }
