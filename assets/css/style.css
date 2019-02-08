@@ -87,6 +87,7 @@ h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #4aaaa5;
 }
+/*--------------------End Main Content Style---*/
 
 /*--------------------Footer Style---*/
 footer {
@@ -114,7 +115,7 @@ footer {
 }
 
 .imgpic {
-    width: 200px;
+    width: 250px;
     margin: 0 50px;
 }
 
@@ -139,6 +140,7 @@ form {
 
 .form-name, .form-email, .form-message {
     padding-bottom: 20px;
+    
 }
 
 .form-name input {
@@ -146,6 +148,7 @@ form {
   height: 20px;
   color: #777777;
   border: solid 1px #dddddd;
+  
 }
 
 .form-email input {
@@ -153,6 +156,7 @@ form {
     height: 20px;
     color: #777777;
     border: solid 1px #dddddd;
+    
 }
 
 .form-message textarea {
@@ -160,6 +164,7 @@ form {
     height: 200px;
     color: #777777;
     border: solid 1px #dddddd;
+    
 }
 
 .form-submit input {
