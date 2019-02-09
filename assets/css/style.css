@@ -75,6 +75,10 @@ article {
     border: solid 1px;
     border-color: #dddddd;
     min-height: 100%vh;
+    
+
+    
+    
 }
 
 .main-title {
@@ -214,7 +218,8 @@ div.right {
 }
 
 .push {
-clear: both;
+    clear: both;
+
 }
 
 
